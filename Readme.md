@@ -89,19 +89,6 @@ It's not just a learning platform. It’s a **student-first ecosystem** that hel
 - 🤝 **Real Collaboration** – Not just content consumption, but co-creation  
 - 🛠️ **Built With Purpose** – Not a placement hub, but a growth community
 
----
-
-## AI Integrations
-
-These integrations ensure PeerConnect goes beyond static content — providing mentorship, feedback, and preparation that truly guides learners toward employment.
-
-<div style="display: flex; gap: 10px;">
-  <img src="./assets/architecture.png" alt="Architecture Diagram" width="48%" />
-  <img src="./assets/flow.png" alt="Flowchart" width="48%" />
-</div>
-
----
-
 ## 🧪 Tech Stack
 
 | Layer        | Tools Used                                     |
